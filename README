@@ -1,0 +1,5 @@
+This is a very small collection of java methods that help with reflection over
+generic types.
+
+They are not as nice as these: http://code.google.com/p/generics-utils/
+
